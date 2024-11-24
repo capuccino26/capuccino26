@@ -39,9 +39,9 @@
 
 ## Development
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=capuccino26&repo=MacroTrends-Scraping&theme=dark" alt="MacroTrends Scraping Repo Stats">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=capuccino26&repo=Oceans14-Scraping&theme=dark" alt="Oceans14 Scraping Repo Stats">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=capuccino26&repo=RNAseq&theme=dark" alt="RNAseq Repo Stats">
+  <a href="https://github.com/capuccino26/MacroTrends-Scraping"><img src="https://github-readme-stats.vercel.app/api/pin/?username=capuccino26&repo=MacroTrends-Scraping&theme=dark" alt="MacroTrends Scraping Repo Stats"></a>
+  <a href="https://github.com/capuccino26/RNAseq"><img src="https://github-readme-stats.vercel.app/api/pin/?username=capuccino26&repo=Oceans14-Scraping&theme=dark" alt="Oceans14 Scraping Repo Stats"></a>
+  <a href="https://github.com/capuccino26/Oceans14-Scraping"><img src="https://github-readme-stats.vercel.app/api/pin/?username=capuccino26&repo=RNAseq&theme=dark" alt="RNAseq Repo Stats"></a>
 </p>
 
 - 🔄 [**Nextflow pipeline for sequencing data automation**](https://github.com/SantosRAC/nextflow_practice) (2024)

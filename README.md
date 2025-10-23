@@ -29,10 +29,10 @@
 
 ## Hello World!
 
-- 🧬 **PhD Student in Genetics and Plant Breeding** - PPG-GMP, ESALQ/USP  
-- 🌱 **Researcher at LAMP/CENA/ESALQ-USP** - Focus on plant breeding and genetics  
-- 📚 **Project Development** - Transcriptome and Network analysis associated with water deficit tolerance in sugarcane
-- 💻 **Technologies** - Bioinformatics, data science, backend development, web development
+- **PhD Student in Genetics and Plant Breeding** - PPG-GMP, ESALQ/USP  
+- **Researcher at LAMP/CENA/ESALQ-USP** - Focus on plant breeding and genetics  
+- **Project Development** - Transcriptome and Network analysis associated with water deficit tolerance in sugarcane
+- **Technologies** - Bioinformatics, data science, backend development, web development
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=capuccino26&rank=A&theme=onestar" alt="Trophy"><br>
 </p>
@@ -45,44 +45,44 @@
   <a href="https://github.com/capuccino26/PTPP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=capuccino26&repo=PTPP&theme=dark&cache_seconds=60" alt="PTPP Repo Stats"></a>
 </p>
 
-- 🔄 [**Nextflow pipeline for sequencing data automation**](https://github.com/SantosRAC/nextflow_practice) (2024)
-- 📱 [**Cafinvest Android App**](https://play.google.com/store/apps/details?id=app.cafinvest) (2024)
-- 🌐 [**Cafinvest Website**](https://cafinvest.com.br/) (2022)
+- [**Nextflow pipeline for sequencing data automation**](https://github.com/SantosRAC/nextflow_practice) (2024)
+- [**Cafinvest Android App**](https://play.google.com/store/apps/details?id=app.cafinvest) (2024)
+- [**Cafinvest Website**](https://cafinvest.com.br/) (2022)
 
 ## Experience
 
-- 🧬 **Cytogenetics**: Fluorescent hybridization techniques
-- 🧬 **Molecular Genetics**: Sequencing and genotyping techniques
-- 📊 **Bioinformatics**: RNA-seq analysis, genome & transcriptome assembly, systems biology
-- 📦 **R Packages**: DESeq2, edgeR, tidyverse, ggplot2, clusterProfiler, and others
-- 🐍 **Python Packages**: pandas, numpy, matplotlib, selenium, BeautifulSoup
-- 💻 **Software**: Muscle, ClustalW, STAR, Salmon, Samtools, and others
-- 🛠 **Environments**: Conda, Nextflow, Snakemake, Docker
+- **Cytogenetics**: Fluorescent hybridization techniques
+- **Molecular Genetics**: Sequencing and genotyping techniques
+- **Bioinformatics**: RNA-seq analysis, genome & transcriptome assembly, systems biology
+- **R Packages**: DESeq2, edgeR, tidyverse, ggplot2, clusterProfiler, and others
+- **Python Packages**: pandas, numpy, matplotlib, selenium, BeautifulSoup
+- **Software**: Muscle, ClustalW, STAR, Salmon, Samtools, and others
+- **Environments**: Conda, Nextflow, Snakemake, Docker
 
 ## Education
 
-- 🎓 **PhD in Agronomy (Genetics and Plant Breeding)** (2023 - present)  
+- **PhD in Agronomy (Genetics and Plant Breeding)** (2023 - present)  
   - **LAMP/CENA/ESALQ-USP**, São Paulo, Brazil  
   - Title: Integration of sugarcane transcriptome with metabolic pathways and protein interactions  
   - Grants: FAPESP, CAPES
 
-- 🎓 **Master of Science (Medical Genetics)** (2018 - 2020)  
+- **Master of Science (Medical Genetics)** (2018 - 2020)  
   - **LCH/DM/FCM-UNICAMP**, São Paulo, Brazil  
   - Title: Investigation of susceptibility factors to 22q11.2 deletion  
   - Grants: FAPESP, CAPES, FAEPEX
 
-- 🎓 **Bachelor of Science in Biological Sciences** (2013 - 2017)  
+- **Bachelor of Science in Biological Sciences** (2013 - 2017)  
   - **LCP/DGE/CCBS-UFSCar**, São Paulo, Brazil  
   - Title: Comparative cytogenetics in the family Hepsetidae  
   - Grant: FAPESP
 
 ## Complementary Qualifications
 
-- 🏅 **English proficiency (C1)** - TOEFL-ITP Level 1 (2023)
-- 📚 **Reviewer** - *Human Gene* journal (2023 - present)  
+- **English proficiency (C1)** - TOEFL-ITP Level 1 (2023)
+- **Reviewer** - *Human Gene* journal (2023 - present)  
   - ISSN: 2773-0441
-- 📚 **Reviewer** - *Gene* journal (2023 - present)  
+- **Reviewer** - *Gene* journal (2023 - present)  
   - ISSN: 1879-0038 (Online)
-- 📚 **Course in AgriTechs Business Fundamentals** (2023)
-- 🌍 **Research Internship Abroad** (2017) - Molecular Cytogenetics Laboratory, Universitätsklinikum Jena, Germany
+- **Course in AgriTechs Business Fundamentals** (2023)
+- **Research Internship Abroad** (2017) - Molecular Cytogenetics Laboratory, Universitätsklinikum Jena, Germany
 ---

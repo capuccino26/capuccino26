@@ -45,6 +45,7 @@
   <a href="https://github.com/capuccino26/PTPP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=capuccino26&repo=PTPP&theme=dark&cache_seconds=60" alt="PTPP Repo Stats"></a>
 </p>
 
+- [**Pipeline for STOmics data tailored to polyploid organisms. **](https://github.com/SantosRAC/POLY_PIPELINEe) (2026)
 - [**Nextflow pipeline for sequencing data automation**](https://github.com/SantosRAC/nextflow_practice) (2024)
 - [**Cafinvest Android App**](https://play.google.com/store/apps/details?id=app.cafinvest) (2024)
 - [**Cafinvest Website**](https://cafinvest.com.br/) (2022)
@@ -53,9 +54,9 @@
 
 - **Cytogenetics**: Fluorescent hybridization techniques
 - **Molecular Genetics**: Sequencing and genotyping techniques
-- **Bioinformatics**: RNA-seq analysis, genome & transcriptome assembly, systems biology
+- **Bioinformatics**: RNA-seq analysis, genome & transcriptome assembly, systems biology, spatial transcriptomics and others
 - **R Packages**: DESeq2, edgeR, tidyverse, ggplot2, clusterProfiler, and others
-- **Python Packages**: pandas, numpy, matplotlib, selenium, BeautifulSoup
+- **Python Packages**: Stereopy, Scanpy, SciPy, Pytorch, pandas, numpy, matplotlib, selenium, BeautifulSoup and others
 - **Software**: Muscle, ClustalW, STAR, Salmon, Samtools, and others
 - **Environments**: Conda, Nextflow, Snakemake, Docker
 

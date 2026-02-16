@@ -45,7 +45,7 @@
   <a href="https://github.com/capuccino26/PTPP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=capuccino26&repo=PTPP&theme=dark&cache_seconds=60" alt="PTPP Repo Stats"></a>
 </p>
 
-- [**Pipeline for STOmics data tailored to polyploid organisms. **](https://github.com/SantosRAC/POLY_PIPELINEe) (2026)
+- [**Pipeline for STOmics data tailored to polyploid organisms.**](https://github.com/SantosRAC/POLY_PIPELINEe) (2026)
 - [**Nextflow pipeline for sequencing data automation**](https://github.com/SantosRAC/nextflow_practice) (2024)
 - [**Cafinvest Android App**](https://play.google.com/store/apps/details?id=app.cafinvest) (2024)
 - [**Cafinvest Website**](https://cafinvest.com.br/) (2022)

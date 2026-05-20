@@ -1,5 +1,12 @@
 <h1 align="center"><strong>Pedro Carvalho</strong></h1>
-<p align="center"><a href="https://cafinvest.com.br/resume.php">Complete Resume</a> 🚀</p>
+<p align="center">
+  <a href="https://cafinvest.com.br/resume.php">
+    <img src="https://github.com/user-attachments/assets/d012626b-0b61-4aae-ba8c-eceb57300132" alt="Complete Resume" height="220"/>
+  </a>
+</p>
+
+---
+
 <p align="center">
   <a href="https://linktr.ee/carvalhopc"><img src="https://img.shields.io/badge/Linktree-000000?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" /></a>
   <a href="https://www.linkedin.com/in/pedro-cristov%C3%A3o-carvalho-95369a11a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -14,12 +21,6 @@
   <a href="https://github.com/capuccino26"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://instagram.com/pedrocczz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.facebook.com/pedro.c.carvalho.3/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=capuccino26&show_icons=true&hide_title=true&theme=dark" alt="GitHub Stats">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=capuccino26&theme=dark&layout=compact" alt="Top Languages">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=capuccino26&theme=transparent&mode=weekly&card_width=150&card_height=90&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
-  <br><img src="https://api.visitorbadge.io/api/VisitorHit?user=capuccino26&repo=github-visitors-badge&countColor=black" alt="Counts">
 </p>
 
 ## Summary

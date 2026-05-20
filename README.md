@@ -1,7 +1,7 @@
 <h1 align="center"><strong>Pedro Carvalho</strong></h1>
 <p align="center">
-  <a href="https://cafinvest.com.br/resume.php">
-    <img src="https://github.com/user-attachments/assets/d012626b-0b61-4aae-ba8c-eceb57300132" alt="Complete Resume" height="220"/>
+  <a href="https://cafinvest.com.br/resume.php" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/user-attachments/assets/d012626b-0b61-4aae-ba8c-eceb57300132" alt="Complete Resume" height="260"/>
   </a>
 </p>
 

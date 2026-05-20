@@ -9,14 +9,15 @@
   <a href="http://www.webofscience.com/wos/author/record/HGV-0907-2022"><img src="https://img.shields.io/badge/Web_of_Science-0066B2?style=for-the-badge&logo=webofscience&logoColor=white" alt="Web of Science" /></a>
   <a href="https://bv.fapesp.br/pt/pesquisador/689457"><img src="https://img.shields.io/badge/FAPESP-FF6A00?style=for-the-badge&logo=fapesp&logoColor=white" alt="FAPESP" /></a>
   <a href="https://play.google.com/store/apps/details?id=app.cafinvest"><img src="https://img.shields.io/badge/Cafinvest-0A62FF?style=for-the-badge&logo=google-play&logoColor=white" alt="Cafinvest" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.agrivision.mobile"><img src="https://img.shields.io/badge/Agrivision-0A62FF?style=for-the-badge&logo=google-play&logoColor=white" alt="Agrivision" /></a>
   <a href="https://cafinvest.com.br/"><img src="https://img.shields.io/badge/Cafinvest-ffd480?style=for-the-badge&logo=coffee&logoColor=white" alt="Cafinvest" /></a>
   <a href="https://github.com/capuccino26"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://instagram.com/pedrocczz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.facebook.com/pedro.c.carvalho.3/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=capuccino26&show_icons=true&hide_title=true&theme=dark" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=capuccino26&theme=dark&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.shion.dev/api?username=capuccino26&show_icons=true&hide_title=true&theme=dark" alt="GitHub Stats">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=capuccino26&theme=dark&layout=compact" alt="Top Languages">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=capuccino26&theme=transparent&mode=weekly&card_width=150&card_height=90&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
   <br><img src="https://api.visitorbadge.io/api/VisitorHit?user=capuccino26&repo=github-visitors-badge&countColor=black" alt="Counts">
 </p>
@@ -39,19 +40,21 @@
 
 ## Development
 <p align="center">
-  <a href="https://github.com/capuccino26/MacroTrends-Scraping"><img src="https://github-readme-stats.vercel.app/api/pin/?username=capuccino26&repo=MacroTrends-Scraping&theme=dark" alt="MacroTrends Scraping Repo Stats"></a>
-  <a href="https://github.com/capuccino26/Oceans14-Scraping"><img src="https://github-readme-stats.vercel.app/api/pin/?username=capuccino26&repo=Oceans14-Scraping&theme=dark" alt="Oceans14 Scraping Repo Stats"></a>
-  <a href="https://github.com/capuccino26/RNAseq"><img src="https://github-readme-stats.vercel.app/api/pin/?username=capuccino26&repo=RNAseq&theme=dark" alt="RNAseq Repo Stats"></a>
-  <a href="https://github.com/capuccino26/PTPP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=capuccino26&repo=PTPP&theme=dark&cache_seconds=60" alt="PTPP Repo Stats"></a>
+  <a href="https://github.com/capuccino26/POLY_PIPELINE"><img src="https://github-readme-stats.shion.dev/api/pin/?username=capuccino26&repo=POLY_PIPELINE&theme=dark" alt="PolyPipeline Repo Stats"></a>
+  <a href="https://github.com/capuccino26/MacroTrends-Scraping"><img src="https://github-readme-stats.shion.dev/api/pin/?username=capuccino26&repo=MacroTrends-Scraping&theme=dark" alt="MacroTrends Scraping Repo Stats"></a>
+  <a href="https://github.com/capuccino26/Oceans14-Scraping"><img src="https://github-readme-stats.shion.dev/api/pin/?username=capuccino26&repo=Oceans14-Scraping&theme=dark" alt="Oceans14 Scraping Repo Stats"></a>
+  <a href="https://github.com/capuccino26/PTPP"><img src="https://github-readme-stats.shion.dev/api/pin/?username=capuccino26&repo=PTPP&theme=dark&cache_seconds=60" alt="PTPP Repo Stats"></a>
 </p>
 
-- [**Pipeline for STOmics data tailored to polyploid organisms.**](https://github.com/SantosRAC/POLY_PIPELINEe) (2026)
+- [**AgriVision Android App**](https://play.google.com/store/apps/details?id=com.agrivision.mobile) (2026)
+- [**Complete meta-analysis of NCBI SRA database for sugarcane under water deficit**](https://github.com/capuccino26/16_PRJ_ANALYSIS) (2026)
+- [**Cloud Computing Guide (AWS & Azure hands-on guide)**](https://github.com/capuccino26/CLOUD_GUIDE) (2026)
+- [**RNAseq Analysis Pipeline**](https://github.com/capuccino26/RNAseq) (2024)
 - [**Nextflow pipeline for sequencing data automation**](https://github.com/SantosRAC/nextflow_practice) (2024)
 - [**Cafinvest Android App**](https://play.google.com/store/apps/details?id=app.cafinvest) (2024)
 - [**Cafinvest Website**](https://cafinvest.com.br/) (2022)
 
 ## Experience
-
 - **Cytogenetics**: Fluorescent hybridization techniques
 - **Molecular Genetics**: Sequencing and genotyping techniques
 - **Bioinformatics**: RNA-seq analysis, genome & transcriptome assembly, systems biology, spatial transcriptomics and others
